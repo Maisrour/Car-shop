@@ -1,0 +1,169 @@
+[
+    {
+        "id":1,
+        "name":"Chev",
+        "model":"Enclave",
+        "price":205992801,
+        "model year ":2009,
+        "color":"Violet",
+        "maiImage":"Chev1.jpg",
+        "Images":["Chev1.jpg","Chev2.jpg","Chev3.jpg","Chev4.jpg","Chev5.jpg"]
+    },
+{
+    "id":2,
+    "name":"Chev",
+    "model":"Grand Cherokee",
+    "price":22.8378780,
+    "model year ":1997,
+    "color":"Pink",
+    "maiImage":"Chev2.jpg"
+},
+{"id":3,"name":"Chev","model":"CLK-Class","price":216735285,"model year ":2004,"color":"Mauv",
+"maiImage":"Chev3.jpg"},
+{"id":4,"name":"Chev","model":"Bonneville","price":192402437,"model year ":2005,"color":"Blue",
+"maiImage":"Chev4.jpg"},
+{"id":5,"name":"Chev","model":"Savana 2500","price":87366865,"model year ":2007,"color":"Violet" ,
+"maiImage":"Chev5.jpg"},
+
+
+{"id":6,"name":"Honda","model":"Rendezvous","price":81050003,"model year ":2006,"color":"Violet" ,
+"maiImage":"honda1.jpg"},
+{"id":7,"name":"Honda","model":"Express 1500","price":42353533,"model year ":2010,"color":"Khaki" ,
+"maiImage":"honda2.jpg"},
+{"id":8,"name":"Honda","model":"Camry","price":3274979,"model year ":2008,"color":"Red",
+"maiImage":"honda3.jpg"},
+{"id":9,"name":"Honda","model":"RS 4","price":164088217,"model year ":2007,"color":"Orange",
+"maiImage":"honda4.jpg"},
+{"id":10,"name":"Honda","model":"Charger","price":204036420,"model year ":1999,"color":"Crimson"
+,"maiImage":"honda5.jpg"},
+{
+    "id":11,
+    "name":"Lambo",
+    "model":"Enclave",
+    "price":205992801,
+    "model year ":2009,
+    "color":"Violet",
+    "maiImage":"Lambo1.jpg"
+    
+},
+{
+"id":12,
+"name":"Lambo",
+"model":"Grand Cherokee",
+"price":22.8378780,
+"model year ":1997,
+"color":"Pink",
+"maiImage":"Lambo2.jpg"
+},{
+    "id":13,
+    "name":"Lambo",
+    "model":"Enclave",
+    "price":205992801,
+    "model year ":2009,
+    "color":"Violet",
+    "maiImage":"Lambo3.jpg"
+},
+{
+"id":14,
+"name":"Lambo",
+"model":"Grand Cherokee",
+"price":22.8378780,
+"model year ":1997,
+"color":"Pink",
+"maiImage":"Lambo4.jpg"
+},{
+    "id":15,
+    "name":"Lambo",
+    "model":"Enclave",
+    "price":205992801,
+    "model year ":2009,
+    "color":"Violet",
+    "maiImage":"Lambo5.jpg"
+},
+{
+    "id":16,
+    "name":"Marcedes",
+    "model":"Enclave",
+    "price":205992801,
+    "model year ":2009,
+    "color":"Violet",
+    "maiImage":"Marcedes1.jpg"
+},
+{
+"id":17,
+"name":"Marcedes",
+"model":"Grand Cherokee",
+"price":22.8378780,
+"model year ":1997,
+"color":"Pink",
+"maiImage":"Marcedes2.jpg"
+},{
+    "id":18,
+    "name":"Marcedes",
+    "model":"Enclave",
+    "price":205992801,
+    "model year ":2009,
+    "color":"Violet",
+    "maiImage":"Marcedes3.jpg"
+},
+{
+"id":19,
+"name":"Marcedes",
+"model":"Grand Cherokee",
+"price":22.8378780,
+"model year ":1997,
+"color":"Pink",
+"maiImage":"Marcedes4.jpeg"
+},{
+    "id":20,
+    "name":"Marcedes",
+    "model":"Enclave",
+    "price":205992801,
+    "model year ":2009,
+    "color":"Violet",
+    "maiImage":"Marcedes5.jpg"
+},
+{
+    "id":21,
+    "name":"Toyota",
+    "model":"Enclave",
+    "price":205992801,
+    "model year ":2009,
+    "color":"Violet",
+    "maiImage":"Toyota1.jpg"
+},
+{
+"id":22,
+"name":"Toyota",
+"model":"Grand Cherokee",
+"price":22.8378780,
+"model year ":1997,
+"color":"Pink",
+"maiImage":"Toyota2.jpeg"
+},{
+    "id":23,
+    "name":"Toyota",
+    "model":"Enclave",
+    "price":205992801,
+    "model year ":2009,
+    "color":"Violet",
+    "maiImage":"Toyota3.jpeg"
+},
+{
+"id":24,
+"name":"Toyota",
+"model":"Grand Cherokee",
+"price":22.8378780,
+"model year ":1997,
+"color":"Pink",
+"maiImage":"Toyota4.jpg"
+},{
+    "id":25,
+    "name":"Toyota",
+    "model":"Enclave",
+    "price":205992801,
+    "model year ":2009,
+    "color":"Violet",
+    "maiImage":"Toyota5.jpg"
+}]
+

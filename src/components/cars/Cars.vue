@@ -1,0 +1,59 @@
+<template>
+  <div class="justify-content-evenly row">
+    <div class="col-4 each-car" v-for="(eachcar, i) in carsInfo" :key="i">
+      <img
+        :src="'/src/assets/' + eachcar.name + '/' + eachcar.maiImage"
+        class="rounded d-block mx-auto"
+      />
+
+      <h4 class="text-center">{{ eachcar.name }} | {{ eachcar.model }}</h4>
+      <div>
+        <div class="float-start">
+          <button type="button" class="btn btn-light">{{ eachcar.price }}</button>
+        </div>
+        <div class="float-end">
+          <router-link
+            :to="{
+              name: 'CarInfo',
+              params: { carName: eachcar.name, carId: eachcar.id },
+            }"
+          >
+            <button type="button" class="btn btn-primary">More Details</button>
+          </router-link>
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
+
+<script>
+export default {
+  name: "Cars",
+  data() {
+    return {
+      carsInfo: this.$attrs.CarsData,
+    };
+  },
+  /*
+  methods: {
+    getImageUrl(folderName, imageName) {
+      let image = require.context("@/assets/");
+      return image("./" + folderName + "/" + imageName);
+    },
+  },
+  */
+};
+</script>
+
+<style scoped>
+.each-car img {
+  width: 300px;
+  height: 200px;
+  margin-bottom: 10px;
+}
+.each-car {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 10px solid #eee;
+}
+</style>
